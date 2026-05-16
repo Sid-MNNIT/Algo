@@ -25,5 +25,4 @@ int32_t main() {
     cin >> t;
 
     while(t--) solve();
-} how i will be usong just type in solve? and take single test case input
-while using this template which c++ type slect in cf mode
+} 
