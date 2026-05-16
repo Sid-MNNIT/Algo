@@ -1,0 +1,29 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define int long long
+#define pb push_back
+#define all(x) x.begin(), x.end()
+#define rall(x) x.rbegin(), x.rend()
+#define sz(x) (int)x.size()
+
+using vi = vector<int>;
+using pii = pair<int,int>;
+
+const int INF = 1e18;
+const int MOD = 1e9+7;
+
+void solve() {
+
+}
+
+int32_t main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int t;
+    cin >> t;
+
+    while(t--) solve();
+} how i will be usong just type in solve? and take single test case input
+while using this template which c++ type slect in cf mode
